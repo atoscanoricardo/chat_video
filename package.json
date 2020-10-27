@@ -1,0 +1,26 @@
+{
+    "name": "chat_video",
+    "version": "1.0.0",
+    "description": "Chat con socket.io Integrante 1",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "star_dev": "nodemon index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/atoscanoricardo/chat_video.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/atoscanoricardo/chat_video/issues"
+    },
+    "homepage": "https://github.com/atoscanoricardo/chat_video#readme",
+    "dependencies": {
+        "express": "^4.17.1",
+        "nodemon": "^2.0.6",
+        "socket.io": "^2.3.0"
+    }
+}
